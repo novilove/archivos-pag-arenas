@@ -1,3 +1,0 @@
-# Ignorar todas las plantillas bajo views/ y components/
-components/**/*.html
-views/**/*.html
