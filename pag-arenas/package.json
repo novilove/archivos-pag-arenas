@@ -1,0 +1,14 @@
+{
+  "name": "pag-arenas",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build index.html --public-url ./ --dist-dir public"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "keywords": [],
+  "author": "Giovanna Tapia",
+  "license": "ISC",
+  "description": ""
+}
