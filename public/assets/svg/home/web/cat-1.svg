@@ -1,15 +1,15 @@
-<svg width="964" height="899" viewBox="0 0 964 899" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<circle cx="372.317" cy="581.375" r="268.252" fill="url(#paint0_linear_2421_21078)" fill-opacity="0.5"/>
-<path d="M735.274 304.161L237.442 716.908L0.5 431.122V202.158L243.452 0.728516H483.701L735.274 304.161Z" fill="url(#pattern0_2421_21078)"/>
-<rect x="189.805" y="382.733" width="774.196" height="516.13" fill="url(#pattern1_2421_21078)"/>
+<svg width="1045" height="899" viewBox="0 0 1045 899" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="453.317" cy="581.375" r="268.252" fill="url(#paint0_linear_2421_21078)" fill-opacity="0.5"/>
+<path d="M847.274 304.161L349.442 716.908L0 295.432L355.125 1H595.926L847.274 304.161Z" fill="url(#pattern0_2421_21078)"/>
+<rect x="250.805" y="382.733" width="774.196" height="516.13" fill="url(#pattern1_2421_21078)"/>
 <defs>
 <pattern id="pattern0_2421_21078" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_2421_21078" transform="matrix(0.000387903 -0.000291572 0.000321607 0.000351677 -0.659059 0.0524325)"/>
+<use xlink:href="#image0_2421_21078" transform="matrix(0.000336398 -0.000291683 0.000278904 0.00035181 -0.438771 0.0520732)"/>
 </pattern>
 <pattern id="pattern1_2421_21078" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_2421_21078" transform="scale(0.00111111 0.00166667)"/>
 </pattern>
-<linearGradient id="paint0_linear_2421_21078" x1="444.933" y1="408.867" x2="290.714" y2="626.344" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2421_21078" x1="525.933" y1="408.867" x2="371.714" y2="626.344" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C1D100"/>
 <stop offset="0.9999" stop-color="#87BD27"/>
 </linearGradient>
