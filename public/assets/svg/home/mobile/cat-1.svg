@@ -1,7 +1,7 @@
-<svg width="660" height="558" viewBox="0 0 660 558" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<circle cx="304.77" cy="360.38" r="166.492" fill="url(#paint0_linear_2803_7806)" fill-opacity="0.5"/>
+<svg width="622" height="558" viewBox="0 0 622 558" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="266.77" cy="360.38" r="166.492" fill="url(#paint0_linear_2803_7806)" fill-opacity="0.5"/>
 <path d="M493.429 226.693L193.226 475.589H165.396L0.0791016 276.192V183.298L220.959 0.167969H305.618L493.429 226.693Z" fill="url(#pattern0_2803_7806)"/>
-<rect x="179.08" y="237.093" width="480.508" height="320.338" fill="url(#pattern1_2803_7806)"/>
+<rect x="141.08" y="237.093" width="480.508" height="320.338" fill="url(#pattern1_2803_7806)"/>
 <defs>
 <pattern id="pattern0_2803_7806" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_2803_7806" transform="matrix(0.000280025 -0.000272608 0.000232166 0.000328804 -0.257582 0.0486679)"/>
@@ -9,7 +9,7 @@
 <pattern id="pattern1_2803_7806" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_2803_7806" transform="scale(0.00111111 0.00166667)"/>
 </pattern>
-<linearGradient id="paint0_linear_2803_7806" x1="349.839" y1="253.313" x2="254.123" y2="388.29" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2803_7806" x1="311.839" y1="253.313" x2="216.123" y2="388.29" gradientUnits="userSpaceOnUse">
 <stop stop-color="#C1D100"/>
 <stop offset="0.9999" stop-color="#87BD27"/>
 </linearGradient>
